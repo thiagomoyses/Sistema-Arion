@@ -1,0 +1,16 @@
+﻿10415;Datasul - Programa apl734za.r;Marcos Vinicios de Carvalho – Viracopos;13/10/2020 09:30;13/10/2020 10:00;Emergencial;Baixa
+10426;Fluig - Alteração da versão do proxy reverso de 32 para 64 bits;Marcos Vinicios de Carvalho – Viracopos;15/10/2020 00:00;15/10/2020 01:00;Emergencial;Baixa
+10428;Fluig - Reiniciar jboss (Travado) e proxy (Iniciar com conta de serviço);Marcos Vinicios de Carvalho – Viracopos;15/10/2020 12:15;15/10/2020 13:00;Emergencial;Baixa
+10425;Chamado Trust #50715 - Lentidão na integração CTMS;Alex Taylor Santos – Viracopos;18/10/2020 01:00;18/10/2020 04:00;Programada;Média
+10423;Inclusão das tabelas H2CTMSORDERD e H2CTMSORDEM na rotina de limpeza.;Gabriel Luis de Moura – Viracopos;18/10/2020 01:00;18/10/2020 04:00;Programada;Média
+10419;Correção da data e hora de recebimento i100/iv10;Alex Taylor Santos – Viracopos;19/10/2020 10:00;19/10/2020 10:30;Programada;Baixa
+10420;CORREÇÃO DA DUPLICIDADE DO MASTER 02369320952;Gabriel Luis de Moura – Viracopos;19/10/2020 10:00;19/10/2020 10:30;Programada;Baixa
+10421;AJUSTE DO SALDO DOCUMENTAL DO CONHECIMENTO DE TRANSPORTE;Alex Taylor Santos – Viracopos;19/10/2020 10:30;19/10/2020 11:00;Programada;Baixa
+10422;Carga AWB 02023695033 DI 2013859235 com três Termos, só migrou dois para o CTMS para tarifar;Gabriel Luis de Moura – Viracopos;19/10/2020 10:30;19/10/2020 11:00;Programada;Baixa
+10431;Reinstalação Progress para atendimento e adequação a auditoria Progress;Gabriel Luis de Moura – Viracopos;19/10/2020 18:00;19/10/2020 22:00;Programada;Baixa
+10416;"Criar e publicar a rede (Vlan 1018 DDSENDP01) entre os switches (E01_TANT_SLARF_CARE1 e TEC_ANEX_TR2T1_SWE01);";João Paulo Lobo Lima – Arion;19/10/2020 18:00;19/10/2020 19:00;Programada;Baixa
+10418;Troca de Serial Number AP tp1_pbp2_te103_ap018;João Paulo Lobo Lima – Arion;19/10/2020 20:00;19/10/2020 21:00;Programada;Baixa
+10429;Fluig - Melhoria - Unificação das etapas triagem e tarifação;Alexson Ferreira - TNU;21/10/2020 00:00;21/10/2020 04:00;Programada;Média
+10432;Datasul - Reinstalação do progress para adequação e atendimento a auditoria;Gabriel Luis de Moura – Viracopos;20/10/2020 18:00;20/10/2020 22:00;Programada;Baixa
+10433;Datasul - Reinstalação do progress para adequação e atendimento a auditoria;Gabriel Luis de Moura – Viracopos;21/10/2020 18:00;21/10/2020 22:00;Programada;Baixa
+10427;Implementar Ferramenta Commex Content - Captura de Moedas;Alex Taylor Santos – Viracopos;22/10/2020 08:00;22/10/2020 17:00;Programada;Média

@@ -1,0 +1,7 @@
+INSERT INTO tbl_acompanhamentos(acomp_chamado, acomp_data, acomp_horario, acomp_tecnico, acomp_cliente, acomp_ecm, acomp_local, acomp_status) VALUES (201254, '2020/12/21', '00:00', 'Jaime', 'Claro', '000000', 'dcm', 'agendado');
+
+INSERT INTO tbl_acompanhamentos(acomp_chamado, acomp_data, acomp_horario, acomp_tecnico, acomp_cliente, acomp_ecm, acomp_local, acomp_status) VALUES (201254, '2020/12/21', '00:00', 'Jaime', 'Claro', '000000', 'dcm', 'agendado');
+
+INSERT INTO tbl_acompanhamentos(acomp_chamado, acomp_data, acomp_horario, acomp_tecnico, acomp_cliente, acomp_ecm, acomp_local, acomp_status) VALUES (201254, '2020/12/21', '00:00', 'Jaime', 'Claro', '000000', 'dcm', 'agendado');
+
+INSERT INTO tbl_acompanhamentos(acomp_chamado, acomp_data, acomp_horario, acomp_tecnico, acomp_cliente, acomp_ecm, acomp_local, acomp_status) VALUES (201254, '2020/12/21', '00:00', 'Jaime', 'Claro', '000000', 'dcm', 'agendado');
